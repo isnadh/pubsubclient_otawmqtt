@@ -1,0 +1,26 @@
+{
+    "name": "PubSubClient_OTAwMQTT",
+    "keywords": "pubsub, MQTT, m2m, sensor, ",
+    "description": "library MQTT for OTA",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/supriyanto4id/pubsubclient_otawmqtt.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Ian Tester",
+        "email": "imroykun@gmail.com",
+        "url": "http://ian.testers.homelinux.net/",
+        "maintainer": true
+      },
+      {
+        "name": " Nicholas O'Leary's",
+        "email": "nick.oleary@gmail.com"
+      }
+    ],
+    "version": "2.7",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
